@@ -1,0 +1,8 @@
+com\twk\restservice\CRUDController.class
+com\twk\restservice\CRUD.class
+com\twk\restservice\DocData.class
+com\twk\restservice\Greeting.class
+com\twk\restservice\myDateTime.class
+com\twk\restservice\RestServiceApplication.class
+com\twk\restservice\customer.class
+com\twk\restservice\GreetingController.class
